@@ -90,6 +90,3 @@ if __name__ == '__main__':
     else:
         examine()
 #_EOF
-
-
-
