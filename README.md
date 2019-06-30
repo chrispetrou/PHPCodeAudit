@@ -1,4 +1,7 @@
-# PHPCodeAudit [![GPLv3 license](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://github.com/chrispetrou/PHPCodeAudit/blob/master/LICENSE) ![](https://img.shields.io/badge/release-Beta-lightgrey.svg)
+# PHPCodeAudit 
+[![GPLv3 license](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://github.com/chrispetrou/PHPCodeAudit/blob/master/LICENSE) 
+![](https://img.shields.io/badge/release-Beta-lightgrey.svg)
+[![Known Vulnerabilities](https://snyk.io//test/github/chrispetrou/PHPCodeAudit/badge.svg?targetFile=requirements.txt)](https://snyk.io//test/github/chrispetrou/PHPCodeAudit?targetFile=requirements.txt)
 
 This is a standalone python script that makes the process of locating potential vulnerable/exploitable PHP functions (_most of the functions are taken from [this great stackoverflow answer](https://stackoverflow.com/questions/3115559/exploitable-php-functions/3697776#3697776)_) in PHP projects easy!
 
